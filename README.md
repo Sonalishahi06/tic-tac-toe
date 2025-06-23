@@ -12,7 +12,7 @@ A simple and interactive **Tic Tac Toe** game built using HTML, CSS, and JavaScr
 - 🔁 Game reset functionality
 - ✅ Win and draw detection
 
-  ## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
