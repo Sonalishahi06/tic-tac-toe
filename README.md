@@ -25,3 +25,7 @@ A simple and interactive **Tic Tac Toe** game built using HTML, CSS, and JavaScr
 3. Take turns and place your marks on the 3×3 grid.
 4. First to get 3 in a row (horizontally, vertically, or diagonally) wins!
 5. If all boxes are filled and no one wins → it's a draw.
+
+## 🔗 Demo Link
+
+[Live Preview](https://tic-tac-toe-1805.netlify.app/)
